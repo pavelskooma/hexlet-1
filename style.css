@@ -1,0 +1,53 @@
+
+/* BEGIN (write your solution here) */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+#header {
+    //text-align: center;
+    margin-bottom: 32px;
+}
+#header a {
+    margin: 5px;
+}
+
+#main {
+    margin-top: 80px;
+}
+
+#main h2 {
+   margin-top: 40px;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 64px;
+    padding: 20px;
+    background: rgba(204, 204, 204, 0.201);
+    font-size: 12px;
+    line-height: 20px;    
+}
+
+p {
+    margin-bottom: 12px;
+}
+
+h1, h2, h3 {
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 32px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 8px;    
+}
+
+/* END */
